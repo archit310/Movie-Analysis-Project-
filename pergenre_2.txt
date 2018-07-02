@@ -1,0 +1,24 @@
+GENRE           YEAR    LIST OF TOP 5 MOVIES
+
+Action		1994	[True Lies (1994),Clear and Present Danger (1994),Star Trek: Generations (1994),Maverick (1994),Speed (1994)]
+Adventure	1994	[True Lies (1994),Black Beauty (1994),Clear and Present Danger (1994),Star Trek: Generations (1994),Stargate (1994)]
+Animation	1994	[Faust (1994)
+
+Children's	1994	[Black Beauty (1994),Andre (1994),Little Big League (1994),Angels in the Outfield (1994),Richie Rich (1994)]
+Comedy		1994	[Bullets Over Broadway (1994),Forrest Gump (1994),Eat Drink Man Woman (1994),Window to Paris (1994),Clerks (1994)]
+Crime		1994	[Amateur (1994),Jason's Lyric (1994),Pulp Fiction (1994),Serial Mom (1994),Once Were Warriors (1994)]
+Documentary	1994	[Brother Minister: The Assassination (1994),Crumb (1994),Maya Lin: A Strong Clear Vision (1994),Hoop Dreams (1994),Carmen Miranda: Bananas Is My Business (1994)]
+
+Drama		1994	[Fresh (1994),Pulp Fiction (1994),Once Were Warriors (1994),Eat Drink Man Woman (1994),Three Colors: Red (1994)]
+Fantasy		1994	[Heavenly Creatures (1994)]
+Horror		1994	[Robert A.Heinlein's The Puppet Masters (1994),Serial Mom (1994),Wes Craven's Nightmare (1994),Interview with the Vampire (1994),Mary Shelley's Frankenstein(1994)
+]
+Musical		1994	[Farinelli: il castrato (1994)]
+Mystery		1994	[Radioland Murders (1994)]
+Romance		1994	[True Lies (1994),Forrest Gump (1994),Four Weddings and a Funeral (1994),It Could Happen to You (1994),Speed (1994)]
+Sci-Fi		1994	[Star Trek: Generations (1994),Stargate (1994),Junior (1994),Robert A. Heinlein's The Puppet Masters (1994),Timecop (1994)]
+
+Thriller	1994	[Clear and Present Danger (1994),Speed (1994),Heavenly Creatures (1994),Killing Zoe (1994),Shallow Grave (1994)]
+War		1994	[For the Moment (1994),Legends of the Fall (1994),Renaissance Man (1994),Forrest Gump (1994),Canadian Bacon (1994)
+]
+Western		1994	[City Slickers II: The Legend of Curly's Gold (1994),Lightning Jack (1994),Legends of the Fall (1994),Maverick (1994),Wyatt Earp (1994)]

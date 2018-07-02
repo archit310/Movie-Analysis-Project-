@@ -1,0 +1,6 @@
+MIDDLE M Executive 98101 1959 Crime 1 4.0
+MIDDLE M Executive 98101 1967 Crime 1 3.0
+MIDDLE M Executive 98101 1990 Crime 1 4.0
+MIDDLE M Executive 98101 1992 Crime 1 3.0
+MIDDLE M Executive 98101 1994 Crime 1 4.0
+MIDDLE M Executive 98101 1997 Crime 5 3.4

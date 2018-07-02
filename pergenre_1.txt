@@ -1,0 +1,22 @@
+GENRE       YEAR    LIST OF TOP 5 MOVIES
+
+Action      1993    [True Romance (1993), Jurassic Park (1993), Menace II Society (1993), Army of Darkness (1993), In the Line of Fire (1993)]
+
+Adventure   1993    [Homeward Bound: The Incredible Journey (1993), Jurassic Park (1993), Hard Target (1993), Army of Darkness (1993), Cliffhanger (1993)]
+
+Children's  1993    [Homeward Bound: The Incredible Journey (1993), Super Mario Bros. (1993), Free Willy (1993)]
+Comedy      1993    [Sleepless in Seattle (1993), Groundhog Day (1993), Manhattan Murder Mystery (1993), Dave (1993), Much Ado About Nothing (1993)]
+Crime       1993    [True Romance (1993), Romeo Is Bleeding (1993), Menace II Society (1993), Carlito's Way (1993), Cliffhanger (1993)
+]
+Documentary 1993    [Thirty-Two Short Films About Glenn Gould (1993)]
+Drama       1993    [I Don't Want to Talk About It (De eso no se habla) (1993), Some Folks Call It a Sling Blade (1993), Farewell My Concubine (1993), Schindler's List (1993), Three Colors: Blue (1993)]
+Film-Noir   1993    [Suture (1993)]
+Horror      1993    [Amityville: A New Generation (1993), Beyond Bedlam (1993), Army of Darkness (1993), Body Snatchers (1993)]
+Musical     1993    [Backbeat (1993)]
+Mystery     1993    [Flesh and Bone (1993), Boxing Helena (1993), Manhattan Murder Mystery (1993), Six Degrees of Separation (1993), Rising Sun (1993)]
+Romance     1993    [Shadowlands (1993), Groundhog Day (1993), Farewell My Concubine (1993), Dave (1993), Much Ado About Nothing (1993)]
+Sci-Fi      1993    [Jurassic Park (1993), Demolition Man (1993), Army of Darkness (1993), Coneheads (1993), Body Snatchers (1993)]
+Thriller    1993    [Malice (1993), So I Married an Axe Murderer (1993), In the Line of Fire (1993), Some Folks Call It a Sling Blade (1993), Kalifornia (1993)]
+
+War         1993    [Heaven & Earth (1993), Hot Shots! Part Deux (1993), Stalingrad (1993), Schindler's List (1993)]
+Western     1993    [Geronimo: An American Legend (1993), Tombstone (1993)]

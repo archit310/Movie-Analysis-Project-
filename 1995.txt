@@ -1,0 +1,15 @@
+MIDDLEMExecutive981011995Action12.0
+
+MIDDLEMExecutive981011995Animation14.0
+
+MIDDLEMExecutive981011995Children's24.0
+
+MIDDLEMExecutive981011995Comedy53.2
+
+MIDDLEMExecutive981011995Drama93.0
+
+MIDDLEMExecutive981011995Romance33.3333333333333335
+
+MIDDLEMExecutive981011995Sci-Fi12.0
+
+MIDDLEMExecutive981011995Thriller12.0
